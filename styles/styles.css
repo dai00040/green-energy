@@ -28,7 +28,7 @@ h1 {
     font-family: 'Roboto Slab', serif;
 }
 
-h2{
+h2 {
     padding-left: 40px;
 }
 
@@ -74,19 +74,19 @@ img {
     .box3 li i {
         font-size: 30px;
     }
-    
+
     img {
-    width: 25%;
-    float: left;
-    }
-    
-    .bodyText{
-        float:right;
-        width: 70%;
-        padding:10px;
+        width: 25%;
+        float: left;
     }
 
-    footer{
+    .bodyText {
+        float: right;
+        width: 70%;
+        padding: 10px;
+    }
+
+    footer {
         clear: both;
         padding-top: 40px;
     }
